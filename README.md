@@ -2,7 +2,7 @@
 
 An introduction to sound playback programming using [ALSA](https://www.alsa-project.org/).
 
-Check out the accompanying [blog post](https://www.alexvia.com/post/alsa_playback/)
+Check out the accompanying [blog post](https://alexvia.com/post/003_alsa_playback/)
 for a more in-depth explanation.
 
 ## Quickstart
